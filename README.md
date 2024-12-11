@@ -4,7 +4,7 @@
 # yt-dlp: Baixador de Vídeos do YouTube e Outras Plataformas
 
 `yt-dlp` é uma biblioteca Python poderosa que permite baixar vídeos de diversas plataformas, incluindo o YouTube, com facilidade e flexibilidade. Ele é uma alternativa de código aberto para o `youtube-dl`, oferecendo suporte adicional para várias melhorias e correções.
-
+```
 ## Instalação
 
 Para instalar o `yt-dlp`, basta usar o `pip`:
