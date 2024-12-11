@@ -85,15 +85,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Para mais informações, consulte a documentação oficial do [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 ```
-
-### Explicação do conteúdo do `README.md`:
-
-1. **Introdução**: Apresenta o `yt-dlp` e sua função.
-2. **Instalação**: Como instalar a biblioteca via `pip`.
-3. **Exemplo de Uso**: Código básico para baixar vídeos.
-4. **Opções Comuns**: Descrição das opções configuráveis, como `format` e `outtmpl`.
-5. **Contribuição**: Como contribuir com o projeto.
-6. **Licença**: Licença do projeto, caso seja aplicável.
-7. **Link para a Documentação**: Para que os usuários possam acessar mais detalhes diretamente no repositório oficial.
-
-Esse `README.md` serve como um guia básico para quem for acessar seu repositório e quiser usar ou contribuir.
